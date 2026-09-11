@@ -1,5 +1,7 @@
 # VOX Production Kit
 
+最新安装与统一接口请先读 [SERVICES.md](SERVICES.md)。运行 `./bootstrap.ps1 -InstallMissing` 安装缺失环境并进入凭据配置。该入口替代下文旧版依赖外部服务 Skill 和 .env 的说明；三个接口执行脚本现已在 services 与 work 中随仓库交付。IMA 需要 Client ID 和 API Key。
+
 已跑通的 VOX 工程源码与示例素材。包含真实 Remotion 4.0.523 + React 19.1.0 工程、原有逐镜动画、透明 PNG、背景、旁白、字幕时间线、Alpha 分离脚本、豆包请求脚本、音效引擎及 QA 脚本。
 
 ## 首次使用（Windows）

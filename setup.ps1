@@ -10,5 +10,8 @@ if ($LASTEXITCODE -ne 0) { throw 'Node dependency installation failed' }
 python -m venv .venv
 & ./.venv/Scripts/python.exe -m pip install -r requirements.txt
 if ($LASTEXITCODE -ne 0) { throw 'Python dependency installation failed' }
+& ./.venv/Scripts/python.exe configure.py
+if ($LASTEXITCODE -ne 0) { throw 'Service configuration failed' }
+& ./.venv/Scripts/python.exe vox.py check
 New-Item -ItemType Directory -Force outputs/own-framework | Out-Null
 Write-Host 'Ready. Run pnpm --dir remotion dev or pnpm --dir remotion render.'

@@ -7,6 +7,8 @@ metadata:
 
 # VOX Production
 
+Portable service setup: after cloning, read SERVICES.md and run configure.py. It prompts for Doubao Key, FriModel Key, and optional IMA Client ID plus Key. Use vox.py check/image/tts/ima. This supersedes the older .env-only setup below. Do not claim local configuration checks prove successful API authentication; do not invoke paid generation during installation.
+
 Use this skill when the user asks for a VOX-style collage video, paper-collage explainer, or a reusable end-to-end production workflow.
 
 ## Required workflow
