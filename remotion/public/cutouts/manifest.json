@@ -1,0 +1,992 @@
+[
+  {
+    "file": "shot01-assets-a-obj0.png",
+    "source": "shot01-assets-a.png",
+    "box": [
+      64,
+      26,
+      993,
+      997
+    ],
+    "size": [
+      929,
+      971
+    ],
+    "mainArea": 586069
+  },
+  {
+    "file": "shot01-assets-a-obj1.png",
+    "source": "shot01-assets-a.png",
+    "box": [
+      1207,
+      26,
+      1913,
+      1052
+    ],
+    "size": [
+      706,
+      1026
+    ],
+    "mainArea": 540290
+  },
+  {
+    "file": "shot01-assets-a-obj2.png",
+    "source": "shot01-assets-a.png",
+    "box": [
+      56,
+      1050,
+      997,
+      1975
+    ],
+    "size": [
+      941,
+      925
+    ],
+    "mainArea": 308996
+  },
+  {
+    "file": "shot01-assets-a-obj3.png",
+    "source": "shot01-assets-a.png",
+    "box": [
+      1043,
+      1101,
+      1983,
+      1988
+    ],
+    "size": [
+      940,
+      887
+    ],
+    "mainArea": 596571
+  },
+  {
+    "file": "shot01-assets-b-obj0.png",
+    "source": "shot01-assets-b.png",
+    "box": [
+      82,
+      785,
+      999,
+      1251
+    ],
+    "size": [
+      917,
+      466
+    ],
+    "mainArea": 294134
+  },
+  {
+    "file": "shot01-assets-b-obj1.png",
+    "source": "shot01-assets-b.png",
+    "box": [
+      119,
+      171,
+      966,
+      691
+    ],
+    "size": [
+      847,
+      520
+    ],
+    "mainArea": 307515
+  },
+  {
+    "file": "shot01-assets-b-obj2.png",
+    "source": "shot01-assets-b.png",
+    "box": [
+      1092,
+      171,
+      1956,
+      641
+    ],
+    "size": [
+      864,
+      470
+    ],
+    "mainArea": 320386
+  },
+  {
+    "file": "shot01-assets-b-obj3.png",
+    "source": "shot01-assets-b.png",
+    "box": [
+      119,
+      1408,
+      990,
+      1815
+    ],
+    "size": [
+      871,
+      407
+    ],
+    "mainArea": 126116
+  },
+  {
+    "file": "shot01-assets-b-obj4.png",
+    "source": "shot01-assets-b.png",
+    "box": [
+      1093,
+      829,
+      1977,
+      1301
+    ],
+    "size": [
+      884,
+      472
+    ],
+    "mainArea": 274163
+  },
+  {
+    "file": "shot02-assets-a-obj0.png",
+    "source": "shot02-assets-a.png",
+    "box": [
+      74,
+      38,
+      601,
+      596
+    ],
+    "size": [
+      527,
+      558
+    ],
+    "mainArea": 205730
+  },
+  {
+    "file": "shot02-assets-a-obj1.png",
+    "source": "shot02-assets-a.png",
+    "box": [
+      657,
+      161,
+      1228,
+      542
+    ],
+    "size": [
+      571,
+      381
+    ],
+    "mainArea": 163690
+  },
+  {
+    "file": "shot02-assets-a-obj2.png",
+    "source": "shot02-assets-a.png",
+    "box": [
+      88,
+      691,
+      612,
+      1126
+    ],
+    "size": [
+      524,
+      435
+    ],
+    "mainArea": 144863
+  },
+  {
+    "file": "shot02-assets-a-obj3.png",
+    "source": "shot02-assets-a.png",
+    "box": [
+      666,
+      651,
+      1182,
+      1180
+    ],
+    "size": [
+      516,
+      529
+    ],
+    "mainArea": 199707
+  },
+  {
+    "file": "shot02-assets-b-obj0.png",
+    "source": "shot02-assets-b.png",
+    "box": [
+      37,
+      80,
+      632,
+      611
+    ],
+    "size": [
+      595,
+      531
+    ],
+    "mainArea": 222532
+  },
+  {
+    "file": "shot02-assets-b-obj1.png",
+    "source": "shot02-assets-b.png",
+    "box": [
+      658,
+      145,
+      1218,
+      613
+    ],
+    "size": [
+      560,
+      468
+    ],
+    "mainArea": 165958
+  },
+  {
+    "file": "shot02-assets-b-obj2.png",
+    "source": "shot02-assets-b.png",
+    "box": [
+      55,
+      660,
+      677,
+      1103
+    ],
+    "size": [
+      622,
+      443
+    ],
+    "mainArea": 241705
+  },
+  {
+    "file": "shot02-assets-b-obj3.png",
+    "source": "shot02-assets-b.png",
+    "box": [
+      703,
+      670,
+      1218,
+      1127
+    ],
+    "size": [
+      515,
+      457
+    ],
+    "mainArea": 57810
+  },
+  {
+    "file": "shot03-assets-a-obj0.png",
+    "source": "shot03-assets-a.png",
+    "box": [
+      91,
+      13,
+      587,
+      462
+    ],
+    "size": [
+      496,
+      449
+    ],
+    "mainArea": 134465
+  },
+  {
+    "file": "shot03-assets-a-obj1.png",
+    "source": "shot03-assets-a.png",
+    "box": [
+      673,
+      103,
+      1145,
+      440
+    ],
+    "size": [
+      472,
+      337
+    ],
+    "mainArea": 43427
+  },
+  {
+    "file": "shot03-assets-a-obj2.png",
+    "source": "shot03-assets-a.png",
+    "box": [
+      91,
+      500,
+      593,
+      838
+    ],
+    "size": [
+      502,
+      338
+    ],
+    "mainArea": 43990
+  },
+  {
+    "file": "shot03-assets-a-obj3.png",
+    "source": "shot03-assets-a.png",
+    "box": [
+      96,
+      888,
+      599,
+      1199
+    ],
+    "size": [
+      503,
+      311
+    ],
+    "mainArea": 39740
+  },
+  {
+    "file": "shot03-assets-a-obj4.png",
+    "source": "shot03-assets-a.png",
+    "box": [
+      671,
+      506,
+      1164,
+      858
+    ],
+    "size": [
+      493,
+      352
+    ],
+    "mainArea": 140800
+  },
+  {
+    "file": "shot03-assets-b-obj0.png",
+    "source": "shot03-assets-b.png",
+    "box": [
+      70,
+      76,
+      645,
+      581
+    ],
+    "size": [
+      575,
+      505
+    ],
+    "mainArea": 220716
+  },
+  {
+    "file": "shot03-assets-b-obj1.png",
+    "source": "shot03-assets-b.png",
+    "box": [
+      723,
+      127,
+      1186,
+      650
+    ],
+    "size": [
+      463,
+      523
+    ],
+    "mainArea": 193771
+  },
+  {
+    "file": "shot03-assets-b-obj2.png",
+    "source": "shot03-assets-b.png",
+    "box": [
+      114,
+      637,
+      737,
+      1179
+    ],
+    "size": [
+      623,
+      542
+    ],
+    "mainArea": 268668
+  },
+  {
+    "file": "shot04-assets-a-obj0.png",
+    "source": "shot04-assets-a.png",
+    "box": [
+      34,
+      33,
+      643,
+      625
+    ],
+    "size": [
+      609,
+      592
+    ],
+    "mainArea": 230448
+  },
+  {
+    "file": "shot04-assets-a-obj1.png",
+    "source": "shot04-assets-a.png",
+    "box": [
+      650,
+      53,
+      1220,
+      657
+    ],
+    "size": [
+      570,
+      604
+    ],
+    "mainArea": 260245
+  },
+  {
+    "file": "shot04-assets-a-obj2.png",
+    "source": "shot04-assets-a.png",
+    "box": [
+      35,
+      649,
+      663,
+      1203
+    ],
+    "size": [
+      628,
+      554
+    ],
+    "mainArea": 265435
+  },
+  {
+    "file": "shot04-assets-a-obj3.png",
+    "source": "shot04-assets-a.png",
+    "box": [
+      731,
+      750,
+      1200,
+      1063
+    ],
+    "size": [
+      469,
+      313
+    ],
+    "mainArea": 98879
+  },
+  {
+    "file": "shot04-assets-b-obj0.png",
+    "source": "shot04-assets-b.png",
+    "box": [
+      105,
+      45,
+      475,
+      571
+    ],
+    "size": [
+      370,
+      526
+    ],
+    "mainArea": 110973
+  },
+  {
+    "file": "shot04-assets-b-obj1.png",
+    "source": "shot04-assets-b.png",
+    "box": [
+      617,
+      112,
+      1178,
+      572
+    ],
+    "size": [
+      561,
+      460
+    ],
+    "mainArea": 213866
+  },
+  {
+    "file": "shot04-assets-b-obj2.png",
+    "source": "shot04-assets-b.png",
+    "box": [
+      59,
+      612,
+      649,
+      1193
+    ],
+    "size": [
+      590,
+      581
+    ],
+    "mainArea": 249995
+  },
+  {
+    "file": "shot04-assets-b-obj3.png",
+    "source": "shot04-assets-b.png",
+    "box": [
+      663,
+      650,
+      1194,
+      1165
+    ],
+    "size": [
+      531,
+      515
+    ],
+    "mainArea": 69087
+  },
+  {
+    "file": "shot05-assets-a-obj0.png",
+    "source": "shot05-assets-a.png",
+    "box": [
+      65,
+      31,
+      648,
+      686
+    ],
+    "size": [
+      583,
+      655
+    ],
+    "mainArea": 242120
+  },
+  {
+    "file": "shot05-assets-a-obj1.png",
+    "source": "shot05-assets-a.png",
+    "box": [
+      707,
+      72,
+      1204,
+      712
+    ],
+    "size": [
+      497,
+      640
+    ],
+    "mainArea": 245962
+  },
+  {
+    "file": "shot05-assets-a-obj2.png",
+    "source": "shot05-assets-a.png",
+    "box": [
+      81,
+      730,
+      689,
+      1176
+    ],
+    "size": [
+      608,
+      446
+    ],
+    "mainArea": 197336
+  },
+  {
+    "file": "shot05-assets-a-obj3.png",
+    "source": "shot05-assets-a.png",
+    "box": [
+      791,
+      755,
+      1145,
+      1178
+    ],
+    "size": [
+      354,
+      423
+    ],
+    "mainArea": 36995
+  },
+  {
+    "file": "shot05-assets-b-obj0.png",
+    "source": "shot05-assets-b.png",
+    "box": [
+      81,
+      200,
+      976,
+      663
+    ],
+    "size": [
+      895,
+      463
+    ],
+    "mainArea": 279098
+  },
+  {
+    "file": "shot05-assets-b-obj1.png",
+    "source": "shot05-assets-b.png",
+    "box": [
+      160,
+      788,
+      897,
+      1193
+    ],
+    "size": [
+      737,
+      405
+    ],
+    "mainArea": 220175
+  },
+  {
+    "file": "shot05-assets-b-obj2.png",
+    "source": "shot05-assets-b.png",
+    "box": [
+      1078,
+      168,
+      1960,
+      658
+    ],
+    "size": [
+      882,
+      490
+    ],
+    "mainArea": 296256
+  },
+  {
+    "file": "shot05-assets-b-obj3.png",
+    "source": "shot05-assets-b.png",
+    "box": [
+      1142,
+      789,
+      1864,
+      1203
+    ],
+    "size": [
+      722,
+      414
+    ],
+    "mainArea": 212807
+  },
+  {
+    "file": "shot05-assets-b-obj4.png",
+    "source": "shot05-assets-b.png",
+    "box": [
+      192,
+      1291,
+      892,
+      1892
+    ],
+    "size": [
+      700,
+      601
+    ],
+    "mainArea": 287308
+  },
+  {
+    "file": "shot06-assets-a-obj0.png",
+    "source": "shot06-assets-a.png",
+    "box": [
+      87,
+      14,
+      616,
+      612
+    ],
+    "size": [
+      529,
+      598
+    ],
+    "mainArea": 181635
+  },
+  {
+    "file": "shot06-assets-a-obj1.png",
+    "source": "shot06-assets-a.png",
+    "box": [
+      675,
+      86,
+      1161,
+      624
+    ],
+    "size": [
+      486,
+      538
+    ],
+    "mainArea": 187980
+  },
+  {
+    "file": "shot06-assets-a-obj2.png",
+    "source": "shot06-assets-a.png",
+    "box": [
+      114,
+      648,
+      575,
+      1187
+    ],
+    "size": [
+      461,
+      539
+    ],
+    "mainArea": 176538
+  },
+  {
+    "file": "shot06-assets-a-obj3.png",
+    "source": "shot06-assets-a.png",
+    "box": [
+      685,
+      687,
+      1134,
+      1190
+    ],
+    "size": [
+      449,
+      503
+    ],
+    "mainArea": 147007
+  },
+  {
+    "file": "shot06-assets-b-obj0.png",
+    "source": "shot06-assets-b.png",
+    "box": [
+      153,
+      142,
+      1904,
+      798
+    ],
+    "size": [
+      1751,
+      656
+    ],
+    "mainArea": 635731
+  },
+  {
+    "file": "shot06-assets-b-obj1.png",
+    "source": "shot06-assets-b.png",
+    "box": [
+      96,
+      804,
+      1043,
+      1932
+    ],
+    "size": [
+      947,
+      1128
+    ],
+    "mainArea": 824461
+  },
+  {
+    "file": "shot06-assets-b-obj2.png",
+    "source": "shot06-assets-b.png",
+    "box": [
+      1046,
+      1061,
+      1972,
+      1603
+    ],
+    "size": [
+      926,
+      542
+    ],
+    "mainArea": 317820
+  },
+  {
+    "file": "shot07-assets-a-obj0.png",
+    "source": "shot07-assets-a.png",
+    "box": [
+      29,
+      18,
+      579,
+      766
+    ],
+    "size": [
+      550,
+      748
+    ],
+    "mainArea": 255814
+  },
+  {
+    "file": "shot07-assets-a-obj1.png",
+    "source": "shot07-assets-a.png",
+    "box": [
+      663,
+      80,
+      1212,
+      744
+    ],
+    "size": [
+      549,
+      664
+    ],
+    "mainArea": 140873
+  },
+  {
+    "file": "shot07-assets-a-obj2.png",
+    "source": "shot07-assets-a.png",
+    "box": [
+      98,
+      774,
+      650,
+      1193
+    ],
+    "size": [
+      552,
+      419
+    ],
+    "mainArea": 183921
+  },
+  {
+    "file": "shot07-assets-b-obj0.png",
+    "source": "shot07-assets-b.png",
+    "box": [
+      112,
+      139,
+      985,
+      1077
+    ],
+    "size": [
+      873,
+      938
+    ],
+    "mainArea": 561168
+  },
+  {
+    "file": "shot07-assets-b-obj1.png",
+    "source": "shot07-assets-b.png",
+    "box": [
+      1130,
+      184,
+      1947,
+      1078
+    ],
+    "size": [
+      817,
+      894
+    ],
+    "mainArea": 587723
+  },
+  {
+    "file": "shot07-assets-b-obj2.png",
+    "source": "shot07-assets-b.png",
+    "box": [
+      102,
+      1216,
+      701,
+      1817
+    ],
+    "size": [
+      599,
+      601
+    ],
+    "mainArea": 301283
+  },
+  {
+    "file": "shot07-assets-b-obj3.png",
+    "source": "shot07-assets-b.png",
+    "box": [
+      772,
+      1232,
+      1358,
+      1859
+    ],
+    "size": [
+      586,
+      627
+    ],
+    "mainArea": 280836
+  },
+  {
+    "file": "shot07-assets-b-obj4.png",
+    "source": "shot07-assets-b.png",
+    "box": [
+      1395,
+      1229,
+      1992,
+      1836
+    ],
+    "size": [
+      597,
+      607
+    ],
+    "mainArea": 277594
+  },
+  {
+    "file": "shot08-assets-a-obj0.png",
+    "source": "shot08-assets-a.png",
+    "box": [
+      171,
+      77,
+      910,
+      1010
+    ],
+    "size": [
+      739,
+      933
+    ],
+    "mainArea": 461010
+  },
+  {
+    "file": "shot08-assets-a-obj1.png",
+    "source": "shot08-assets-a.png",
+    "box": [
+      1111,
+      286,
+      1949,
+      1001
+    ],
+    "size": [
+      838,
+      715
+    ],
+    "mainArea": 254499
+  },
+  {
+    "file": "shot08-assets-a-obj2.png",
+    "source": "shot08-assets-a.png",
+    "box": [
+      130,
+      1147,
+      948,
+      1819
+    ],
+    "size": [
+      818,
+      672
+    ],
+    "mainArea": 219126
+  },
+  {
+    "file": "shot08-assets-a-obj3.png",
+    "source": "shot08-assets-a.png",
+    "box": [
+      1092,
+      1196,
+      1933,
+      1840
+    ],
+    "size": [
+      841,
+      644
+    ],
+    "mainArea": 220924
+  },
+  {
+    "file": "shot08-assets-b-obj0.png",
+    "source": "shot08-assets-b.png",
+    "box": [
+      100,
+      57,
+      603,
+      410
+    ],
+    "size": [
+      503,
+      353
+    ],
+    "mainArea": 123679
+  },
+  {
+    "file": "shot08-assets-b-obj1.png",
+    "source": "shot08-assets-b.png",
+    "box": [
+      713,
+      64,
+      1116,
+      410
+    ],
+    "size": [
+      403,
+      346
+    ],
+    "mainArea": 82231
+  },
+  {
+    "file": "shot08-assets-b-obj2.png",
+    "source": "shot08-assets-b.png",
+    "box": [
+      102,
+      860,
+      531,
+      1186
+    ],
+    "size": [
+      429,
+      326
+    ],
+    "mainArea": 70919
+  },
+  {
+    "file": "shot08-assets-b-obj3.png",
+    "source": "shot08-assets-b.png",
+    "box": [
+      111,
+      456,
+      522,
+      814
+    ],
+    "size": [
+      411,
+      358
+    ],
+    "mainArea": 104582
+  },
+  {
+    "file": "shot08-assets-b-obj4.png",
+    "source": "shot08-assets-b.png",
+    "box": [
+      723,
+      444,
+      1151,
+      835
+    ],
+    "size": [
+      428,
+      391
+    ],
+    "mainArea": 119950
+  }
+]

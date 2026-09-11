@@ -26,6 +26,11 @@ Use this skill when the user asks for a VOX-style collage video, paper-collage e
 Clone this repository, run `setup.ps1`, install the three user-provided credentials into a local `.env` (`DOUBAO_API_KEY`, `EXTERNAL_IMAGE_API_KEY`, `IMA_API_KEY`), and run the Remotion project. The IMA key is optional when the user supplies another source. External image generation is used for transparent collections and backgrounds; no built-in image generator is assumed.
 
 Read the focused references only when needed:
-- [references/portable-workflow.md](../../references/portable-workflow.md) for setup, API boundaries, and delivery.
-- [references/motion-schema.md](../../references/motion-schema.md) for shot and layer data.
-- [templates/sound-cues.example.json](../../templates/sound-cues.example.json) for deterministic sound placement.
+- [references/portable-workflow.md](references/portable-workflow.md) for setup, API boundaries, and delivery.
+- [references/motion-schema.md](references/motion-schema.md) for shot and layer data.
+- After cloning, use `work/own-framework/sound-cues.json` as the working sound schema.
+
+## Repository bootstrap
+
+Repository: https://github.com/guangxuezhang/vox-production-kit.git
+When the Skill is installed without the project, clone that repository into a user workspace and run its setup.ps1. Never replace a dirty checkout or pull over user edits. Read README.md for executable commands and remaining provider requirements. The included own-framework episode is a reference implementation, not a mandatory script or shot count. Confirm each production stage with the user before advancing unless they explicitly authorize a full run.

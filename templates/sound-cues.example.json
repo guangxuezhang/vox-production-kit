@@ -1,7 +1,13 @@
 {
+  "duration": 5,
+  "sample_rate": 44100,
+  "seed": 20260911,
+  "bed_gain": 0.15,
   "cues": [
-    {"time": 0.0, "type": "whoosh", "duration": 0.32, "gain": 0.28, "label": "shot-entry"},
-    {"time": 1.2, "type": "focus", "duration": 0.25, "gain": 0.22, "label": "key-word"},
-    {"time": 3.5, "type": "resolve", "duration": 0.45, "gain": 0.25, "label": "shot-resolve"}
+    {
+      "time": 1,
+      "type": "page",
+      "gain": 0.55
+    }
   ]
 }

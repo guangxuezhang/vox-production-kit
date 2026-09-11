@@ -1,9 +1,13 @@
 node_modules/
 .pnpm-store/
 .env
+.env.*
+!.env.example
+.private/
+*.key
 outputs/
 *.mp4
-*.mp3
-*.wav
 *.mov
 __pycache__/
+.venv/
+.remotion/

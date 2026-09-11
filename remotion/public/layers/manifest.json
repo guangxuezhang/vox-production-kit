@@ -1,0 +1,758 @@
+[
+  {
+    "file": "02-a0.png",
+    "source": "shot02-assets-a.png",
+    "rect": [
+      0,
+      0,
+      627,
+      627
+    ],
+    "size": [
+      524,
+      554
+    ]
+  },
+  {
+    "file": "02-a1.png",
+    "source": "shot02-assets-a.png",
+    "rect": [
+      627,
+      0,
+      1254,
+      627
+    ],
+    "size": [
+      569,
+      377
+    ]
+  },
+  {
+    "file": "02-a2.png",
+    "source": "shot02-assets-a.png",
+    "rect": [
+      0,
+      627,
+      627,
+      1254
+    ],
+    "size": [
+      520,
+      431
+    ]
+  },
+  {
+    "file": "02-a3.png",
+    "source": "shot02-assets-a.png",
+    "rect": [
+      627,
+      627,
+      1254,
+      1254
+    ],
+    "size": [
+      512,
+      525
+    ]
+  },
+  {
+    "file": "02-b0.png",
+    "source": "shot02-assets-b.png",
+    "rect": [
+      0,
+      0,
+      665,
+      627
+    ],
+    "size": [
+      626,
+      528
+    ]
+  },
+  {
+    "file": "02-b1.png",
+    "source": "shot02-assets-b.png",
+    "rect": [
+      665,
+      0,
+      1254,
+      627
+    ],
+    "size": [
+      551,
+      464
+    ]
+  },
+  {
+    "file": "02-b2.png",
+    "source": "shot02-assets-b.png",
+    "rect": [
+      0,
+      627,
+      665,
+      1254
+    ],
+    "size": [
+      608,
+      440
+    ]
+  },
+  {
+    "file": "02-b3.png",
+    "source": "shot02-assets-b.png",
+    "rect": [
+      665,
+      627,
+      1254,
+      1254
+    ],
+    "size": [
+      551,
+      454
+    ]
+  },
+  {
+    "file": "03-a0.png",
+    "source": "shot03-assets-a.png",
+    "rect": [
+      0,
+      0,
+      614,
+      502
+    ],
+    "size": [
+      492,
+      446
+    ]
+  },
+  {
+    "file": "03-a1.png",
+    "source": "shot03-assets-a.png",
+    "rect": [
+      614,
+      0,
+      1254,
+      502
+    ],
+    "size": [
+      468,
+      333
+    ]
+  },
+  {
+    "file": "03-a2.png",
+    "source": "shot03-assets-a.png",
+    "rect": [
+      0,
+      502,
+      614,
+      865
+    ],
+    "size": [
+      498,
+      334
+    ]
+  },
+  {
+    "file": "03-a3.png",
+    "source": "shot03-assets-a.png",
+    "rect": [
+      0,
+      865,
+      614,
+      1254
+    ],
+    "size": [
+      499,
+      308
+    ]
+  },
+  {
+    "file": "03-b0.png",
+    "source": "shot03-assets-b.png",
+    "rect": [
+      0,
+      0,
+      690,
+      690
+    ],
+    "size": [
+      571,
+      612
+    ]
+  },
+  {
+    "file": "03-b1.png",
+    "source": "shot03-assets-b.png",
+    "rect": [
+      690,
+      0,
+      1254,
+      690
+    ],
+    "size": [
+      459,
+      519
+    ]
+  },
+  {
+    "file": "03-b2.png",
+    "source": "shot03-assets-b.png",
+    "rect": [
+      0,
+      690,
+      752,
+      1254
+    ],
+    "size": [
+      619,
+      487
+    ]
+  },
+  {
+    "file": "04-a0.png",
+    "source": "shot04-assets-a.png",
+    "rect": [
+      0,
+      0,
+      627,
+      627
+    ],
+    "size": [
+      591,
+      588
+    ]
+  },
+  {
+    "file": "04-a1.png",
+    "source": "shot04-assets-a.png",
+    "rect": [
+      627,
+      0,
+      1254,
+      627
+    ],
+    "size": [
+      591,
+      572
+    ]
+  },
+  {
+    "file": "04-a2.png",
+    "source": "shot04-assets-a.png",
+    "rect": [
+      0,
+      627,
+      627,
+      1254
+    ],
+    "size": [
+      591,
+      551
+    ]
+  },
+  {
+    "file": "04-a3.png",
+    "source": "shot04-assets-a.png",
+    "rect": [
+      627,
+      627,
+      1254,
+      1254
+    ],
+    "size": [
+      571,
+      511
+    ]
+  },
+  {
+    "file": "04-b0.png",
+    "source": "shot04-assets-b.png",
+    "rect": [
+      0,
+      0,
+      589,
+      614
+    ],
+    "size": [
+      367,
+      524
+    ]
+  },
+  {
+    "file": "04-b1.png",
+    "source": "shot04-assets-b.png",
+    "rect": [
+      589,
+      0,
+      1254,
+      614
+    ],
+    "size": [
+      557,
+      456
+    ]
+  },
+  {
+    "file": "04-b2.png",
+    "source": "shot04-assets-b.png",
+    "rect": [
+      0,
+      614,
+      652,
+      1254
+    ],
+    "size": [
+      587,
+      577
+    ]
+  },
+  {
+    "file": "04-b3.png",
+    "source": "shot04-assets-b.png",
+    "rect": [
+      652,
+      614,
+      1254,
+      1254
+    ],
+    "size": [
+      527,
+      511
+    ]
+  },
+  {
+    "file": "05-a0.png",
+    "source": "shot05-assets-a.png",
+    "rect": [
+      0,
+      0,
+      627,
+      627
+    ],
+    "size": [
+      560,
+      594
+    ]
+  },
+  {
+    "file": "05-a1.png",
+    "source": "shot05-assets-a.png",
+    "rect": [
+      627,
+      0,
+      1254,
+      627
+    ],
+    "size": [
+      576,
+      554
+    ]
+  },
+  {
+    "file": "05-a2.png",
+    "source": "shot05-assets-a.png",
+    "rect": [
+      0,
+      627,
+      627,
+      1254
+    ],
+    "size": [
+      545,
+      547
+    ]
+  },
+  {
+    "file": "05-a3.png",
+    "source": "shot05-assets-a.png",
+    "rect": [
+      627,
+      627,
+      1254,
+      1254
+    ],
+    "size": [
+      516,
+      549
+    ]
+  },
+  {
+    "file": "05-b0.png",
+    "source": "shot05-assets-b.png",
+    "rect": [
+      0,
+      0,
+      1024,
+      553
+    ],
+    "size": [
+      893,
+      352
+    ]
+  },
+  {
+    "file": "05-b1.png",
+    "source": "shot05-assets-b.png",
+    "rect": [
+      1024,
+      0,
+      2048,
+      553
+    ],
+    "size": [
+      880,
+      383
+    ]
+  },
+  {
+    "file": "05-b2.png",
+    "source": "shot05-assets-b.png",
+    "rect": [
+      0,
+      1126,
+      1126,
+      2048
+    ],
+    "size": [
+      698,
+      765
+    ]
+  },
+  {
+    "file": "06-a0.png",
+    "source": "shot06-assets-a.png",
+    "rect": [
+      0,
+      0,
+      627,
+      640
+    ],
+    "size": [
+      526,
+      594
+    ]
+  },
+  {
+    "file": "06-a1.png",
+    "source": "shot06-assets-a.png",
+    "rect": [
+      627,
+      0,
+      1254,
+      640
+    ],
+    "size": [
+      482,
+      535
+    ]
+  },
+  {
+    "file": "06-a2.png",
+    "source": "shot06-assets-a.png",
+    "rect": [
+      0,
+      640,
+      627,
+      1254
+    ],
+    "size": [
+      457,
+      536
+    ]
+  },
+  {
+    "file": "06-a3.png",
+    "source": "shot06-assets-a.png",
+    "rect": [
+      627,
+      640,
+      1254,
+      1254
+    ],
+    "size": [
+      445,
+      499
+    ]
+  },
+  {
+    "file": "06-b0.png",
+    "source": "shot06-assets-b.png",
+    "rect": [
+      0,
+      0,
+      2048,
+      840
+    ],
+    "size": [
+      1749,
+      696
+    ]
+  },
+  {
+    "file": "06-b1.png",
+    "source": "shot06-assets-b.png",
+    "rect": [
+      0,
+      840,
+      1126,
+      2048
+    ],
+    "size": [
+      1029,
+      1091
+    ]
+  },
+  {
+    "file": "06-b2.png",
+    "source": "shot06-assets-b.png",
+    "rect": [
+      1126,
+      840,
+      2048,
+      2048
+    ],
+    "size": [
+      845,
+      538
+    ]
+  },
+  {
+    "file": "07-a0.png",
+    "source": "shot07-assets-a.png",
+    "rect": [
+      0,
+      0,
+      627,
+      765
+    ],
+    "size": [
+      546,
+      744
+    ]
+  },
+  {
+    "file": "07-a1.png",
+    "source": "shot07-assets-a.png",
+    "rect": [
+      627,
+      0,
+      1254,
+      865
+    ],
+    "size": [
+      545,
+      660
+    ]
+  },
+  {
+    "file": "07-a2.png",
+    "source": "shot07-assets-a.png",
+    "rect": [
+      0,
+      765,
+      627,
+      1254
+    ],
+    "size": [
+      528,
+      416
+    ]
+  },
+  {
+    "file": "07-b0.png",
+    "source": "shot07-assets-b.png",
+    "rect": [
+      0,
+      0,
+      1024,
+      1167
+    ],
+    "size": [
+      872,
+      936
+    ]
+  },
+  {
+    "file": "07-b1.png",
+    "source": "shot07-assets-b.png",
+    "rect": [
+      1024,
+      0,
+      2048,
+      1167
+    ],
+    "size": [
+      814,
+      892
+    ]
+  },
+  {
+    "file": "07-b2.png",
+    "source": "shot07-assets-b.png",
+    "rect": [
+      0,
+      1167,
+      696,
+      2048
+    ],
+    "size": [
+      594,
+      598
+    ]
+  },
+  {
+    "file": "07-b3.png",
+    "source": "shot07-assets-b.png",
+    "rect": [
+      696,
+      1167,
+      1372,
+      2048
+    ],
+    "size": [
+      660,
+      626
+    ]
+  },
+  {
+    "file": "07-b4.png",
+    "source": "shot07-assets-b.png",
+    "rect": [
+      1372,
+      1167,
+      2048,
+      2048
+    ],
+    "size": [
+      595,
+      605
+    ]
+  },
+  {
+    "file": "08-a0.png",
+    "source": "shot08-assets-a.png",
+    "rect": [
+      0,
+      0,
+      1044,
+      1106
+    ],
+    "size": [
+      735,
+      929
+    ]
+  },
+  {
+    "file": "08-a1.png",
+    "source": "shot08-assets-a.png",
+    "rect": [
+      1044,
+      0,
+      2048,
+      1106
+    ],
+    "size": [
+      836,
+      713
+    ]
+  },
+  {
+    "file": "08-a2.png",
+    "source": "shot08-assets-a.png",
+    "rect": [
+      0,
+      1106,
+      1044,
+      2048
+    ],
+    "size": [
+      815,
+      670
+    ]
+  },
+  {
+    "file": "08-a3.png",
+    "source": "shot08-assets-a.png",
+    "rect": [
+      1044,
+      1106,
+      2048,
+      2048
+    ],
+    "size": [
+      837,
+      642
+    ]
+  },
+  {
+    "file": "08-b0.png",
+    "source": "shot08-assets-b.png",
+    "rect": [
+      0,
+      0,
+      627,
+      477
+    ],
+    "size": [
+      499,
+      418
+    ]
+  },
+  {
+    "file": "08-b1.png",
+    "source": "shot08-assets-b.png",
+    "rect": [
+      627,
+      0,
+      1254,
+      477
+    ],
+    "size": [
+      399,
+      412
+    ]
+  },
+  {
+    "file": "08-b2.png",
+    "source": "shot08-assets-b.png",
+    "rect": [
+      0,
+      477,
+      627,
+      903
+    ],
+    "size": [
+      415,
+      426
+    ]
+  },
+  {
+    "file": "08-b3.png",
+    "source": "shot08-assets-b.png",
+    "rect": [
+      627,
+      477,
+      1254,
+      903
+    ],
+    "size": [
+      424,
+      357
+    ]
+  },
+  {
+    "file": "08-b4.png",
+    "source": "shot08-assets-b.png",
+    "rect": [
+      0,
+      903,
+      690,
+      1254
+    ],
+    "size": [
+      426,
+      281
+    ]
+  }
+]

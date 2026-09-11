@@ -2,8 +2,10 @@
   "name": "vox-remotion-compare",
   "private": true,
   "scripts": {
-    "render": "remotion render src/index.tsx Shot01 ../../outputs/own-framework/shot01-remotion.mp4",
-    "render:final": "remotion render src/index.tsx Finished ../../outputs/own-framework/own-framework-finished-v2.mp4 --concurrency=2"
+    "dev": "remotion studio src/index.tsx",
+    "render": "remotion render src/index.tsx Finished ../outputs/own-framework/own-framework-finished-v2.mp4 --concurrency=2",
+    "render:final": "npm run render",
+    "compositions": "remotion compositions src/index.tsx"
   },
   "dependencies": {
     "remotion": "4.0.523",

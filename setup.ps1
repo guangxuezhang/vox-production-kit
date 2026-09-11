@@ -1,6 +1,14 @@
-param([switch]$Install)
+param([switch]$CheckOnly)
 $ErrorActionPreference='Stop'
-Write-Host 'Checking VOX production dependencies...'
-foreach ($cmd in @('node','pnpm','python','ffmpeg')) { if (-not (Get-Command $cmd -ErrorAction SilentlyContinue)) { Write-Warning "$cmd is missing" } else { & $cmd --version | Select-Object -First 1 } }
-if ($Install -and (Test-Path 'remotion\package.json')) { pnpm --dir remotion install }
-Write-Host 'Create .env from .env.example and set credentials locally. Keys are never committed.'
+Set-Location $PSScriptRoot
+foreach ($tool in @('node','pnpm','python','ffmpeg','ffprobe')) {
+ if (-not (Get-Command $tool -ErrorAction SilentlyContinue)) { throw "Missing dependency: $tool. Install it and rerun setup." }
+}
+if ($CheckOnly) { Write-Host 'Dependency commands are available'; exit 0 }
+pnpm --dir remotion install --frozen-lockfile
+if ($LASTEXITCODE -ne 0) { throw 'Node dependency installation failed' }
+python -m venv .venv
+& ./.venv/Scripts/python.exe -m pip install -r requirements.txt
+if ($LASTEXITCODE -ne 0) { throw 'Python dependency installation failed' }
+New-Item -ItemType Directory -Force outputs/own-framework | Out-Null
+Write-Host 'Ready. Run pnpm --dir remotion dev or pnpm --dir remotion render.'

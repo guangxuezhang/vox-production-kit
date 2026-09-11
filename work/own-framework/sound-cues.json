@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "duration": 75.8,
+  "sample_rate": 44100,
+  "bpm": 88,
+  "seed": 20260911,
+  "peak": 0.45,
+  "bed_gain": 0.15,
+  "cues": [
+    {
+      "time": 1.033,
+      "type": "page",
+      "gain": 0.55
+    },
+    {
+      "time": 4.6,
+      "type": "page",
+      "gain": 0.55
+    },
+    {
+      "time": 5.267,
+      "type": "whoosh",
+      "gain": 0.75
+    },
+    {
+      "time": 13.033,
+      "type": "page",
+      "gain": 0.55
+    },
+    {
+      "time": 14.267,
+      "type": "whoosh",
+      "gain": 0.75
+    },
+    {
+      "time": 15.567,
+      "type": "whoosh",
+      "gain": 0.75
+    },
+    {
+      "time": 20.9,
+      "type": "page",
+      "gain": 0.55
+    },
+    {
+      "time": 21.06,
+      "type": "target",
+      "gain": 0.55
+    },
+    {
+      "time": 21.4,
+      "type": "page",
+      "gain": 0.55
+    },
+    {
+      "time": 22.033,
+      "type": "page",
+      "gain": 0.55
+    },
+    {
+      "time": 22.193,
+      "type": "target",
+      "gain": 0.55
+    },
+    {
+      "time": 24.6,
+      "type": "page",
+      "gain": 0.55
+    },
+    {
+      "time": 24.76,
+      "type": "target",
+      "gain": 0.55
+    },
+    {
+      "time": 25.767,
+      "type": "page",
+      "gain": 0.55
+    },
+    {
+      "time": 32.867,
+      "type": "whoosh",
+      "gain": 0.75
+    },
+    {
+      "time": 38.233,
+      "type": "page",
+      "gain": 0.55
+    },
+    {
+      "time": 41.067,
+      "type": "whoosh",
+      "gain": 0.75
+    },
+    {
+      "time": 52.5,
+      "type": "whoosh",
+      "gain": 0.75
+    },
+    {
+      "time": 55.333,
+      "type": "page",
+      "gain": 0.55
+    },
+    {
+      "time": 55.493,
+      "type": "target",
+      "gain": 0.55
+    },
+    {
+      "time": 57.933,
+      "type": "page",
+      "gain": 0.55
+    },
+    {
+      "time": 59.8,
+      "type": "whoosh",
+      "gain": 0.75
+    },
+    {
+      "time": 68.027,
+      "type": "target",
+      "gain": 0.55
+    },
+    {
+      "time": 69.4,
+      "type": "page",
+      "gain": 0.55
+    },
+    {
+      "time": 71.933,
+      "type": "whoosh",
+      "gain": 0.75
+    }
+  ]
+}

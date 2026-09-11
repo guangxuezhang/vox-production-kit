@@ -1,0 +1,13 @@
+{
+  "provider": "doubao",
+  "speaker": "zh_male_liufei_uranus_bigtts",
+  "requiredVoice": "用户此前确认的男声音色；实际听感必须核验，不能仅依赖 speaker ID",
+  "generationSpeechRate": 0,
+  "playbackRate": 1.3,
+  "method": "ffmpeg atempo, preserve pitch; divide subtitle and motion cue times by playbackRate",
+  "voiceVerification": "音色参数已按官方接口修正，接口成功返回新音频；实际听感待用户审核",
+  "updated": "2026-09-11",
+  "requestSpeakerPath": "references[0].speaker",
+  "promptReference": "@音频1",
+  "officialDoc": "https://www.volcengine.com/docs/6561/2550782"
+}
