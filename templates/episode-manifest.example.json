@@ -1,0 +1,9 @@
+{
+  "episodeId": "example",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "shots": [],
+  "assets": [],
+  "audio": {"voice": "", "soundscape": "", "playbackRate": 1.3}
+}

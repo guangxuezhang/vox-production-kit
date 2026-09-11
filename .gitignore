@@ -1,0 +1,9 @@
+node_modules/
+.pnpm-store/
+.env
+outputs/
+*.mp4
+*.mp3
+*.wav
+*.mov
+__pycache__/

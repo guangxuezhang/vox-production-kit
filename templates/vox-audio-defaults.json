@@ -1,0 +1,7 @@
+{
+  "provider": "doubao",
+  "speaker": "zh_male_liufei_uranus_bigtts",
+  "generationSpeechRate": 0,
+  "playbackRate": 1.3,
+  "method": "ffmpeg atempo; preserve pitch; retime captions and motion cues by /1.3"
+}
