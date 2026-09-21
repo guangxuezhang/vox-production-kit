@@ -23,6 +23,11 @@ for (const scene of scenes) {
   if (!scene.focus || !scene.handoff || !scene.background) fail(`${label}: focus, handoff, and background are required`);
   if (!fs.existsSync(path.resolve(base, scene.background))) fail(`${label}: background file missing`);
   if (!Array.isArray(scene.layers) || scene.layers.length < 3) fail(`${label}: at least three independent visual layers are required`);
+  for (const annotation of [...(scene.labels || []), ...(scene.annotations || [])]) {
+    if (!annotation.text || !Number.isInteger(annotation.startFrame) || !Number.isInteger(annotation.endFrame)) fail(`${label}: annotation timing/text is required`);
+    if (!Number.isInteger(annotation.z) || annotation.z < 90) fail(`${label}: annotation ${annotation.text} must use z>=90`);
+    if (annotation.startFrame < scene.startFrame || annotation.endFrame <= annotation.startFrame || annotation.endFrame > scene.endFrame) fail(`${label}: annotation ${annotation.text} is outside scene`);
+  }
   const assets = new Set();
   const starts = new Set();
   for (const layer of scene.layers) {
