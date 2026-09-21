@@ -1,0 +1,7 @@
+# Director plan gate
+
+Create one `episode-plan.json` after final-audio timestamps and asset QA. The rendering code must consume the same plan or cross-check every layer and cue against it. Run `node scripts/validate_director_plan.cjs <episode-plan.json>` before any preview or final render. A failure means the episode remains a diagnostic draft.
+
+Required top-level fields: `fps`, `audioDurationSeconds`, `narrationText`, `scenes`. Each scene has `id`, `startFrame`, `endFrame`, `focus`, `handoff`, `background`, and `layers`. Each ordinary-mode scene has at least three layers. Each layer has `id`, `asset` (a real independent file), `cueText` (words present in narration), `cueTimeSeconds` (on the final processed audio timeline), `purpose`, `action`, `enter` (`startFrame`, `settleFrame`, `from`, `to`), `z`, and `holdUntilFrame`. Optional `exit` uses the same frame/position structure.
+
+The plan is a director's decision record, not only coordinates. `focus` names what the viewer should look at; `purpose` explains what each action reveals; `handoff` says what the next beat receives. Avoid applying the same left/right/bottom slide to every scene. Choose paths, replacements, occlusions, reveals, and rhythmic holds according to the spoken cue. Backgrounds remain fixed. People have the highest visual z-index and captions stay in a separate top layer.

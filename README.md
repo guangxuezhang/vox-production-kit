@@ -18,9 +18,11 @@ pnpm --dir remotion render
 
 ## 已确认的制作方法
 
-用户决定选题与来源 → 确认文案及按语义划分的镜头 → 每镜参考图 → 每 3–5 件元素一张透明集合图及一张干净背景 → Alpha 分离与轮廓验收 → Create Storyboard 动作表 → Remotion 帧动画 → 男声旁白与时间戳 → 保调 1.3 倍变速并同步字幕及动作 → 按语义植入音效 → 观看、抽帧和技术验收。
+用户决定选题与来源 → 确认文案及按语义划分的镜头 → 男声旁白保调变速及最终时间戳 → 每镜参考图 → 每 3–5 件元素一张透明集合图及一张干净背景 → Alpha 分离与轮廓验收 → Create Storyboard 按词句编排的动作表 → 导演动作表校验 → Remotion 按表实现与渲染 → 按语义植入音效 → 观看、抽帧和技术验收。
 
 背景固定；素材错峰进入后停稳，优先避免重叠，人物高于其他视觉素材，字幕独立顶层。每一步告知用户下一步并等待确认，除非用户授权整段自动推进。时长和镜头数由当次内容决定。
+
+新选题必须先生成 `episode-plan.json`，按 `skills/vox-production/references/director-plan.md` 填写每件素材的旁白 cue、动作意义、入场/落点与镜间交接。用 `node scripts/render_episode.cjs <episode-plan.json> <composition-id> <output.mp4>` 渲染；缺动作表或校验失败时不会进入 Remotion。上方的 `pnpm --dir remotion render` 只复现仓库自带的旧示例。
 
 ## 包内脚本
 
